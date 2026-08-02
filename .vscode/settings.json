@@ -1,0 +1,10 @@
+{
+  "chat.mcp.serverSampling": {
+    "codacy-cloud-cli/.vscode/mcp.json: io.github.ChromeDevTools/chrome-devtools-mcp": {
+      "allowedModels": [
+        "copilotcli/auto",
+        "copilot/auto"
+      ]
+    }
+  }
+}
