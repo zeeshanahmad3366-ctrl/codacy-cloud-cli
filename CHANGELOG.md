@@ -1,5 +1,7 @@
 # @codacy/codacy-cloud-cli
 
+<!-- markdownlint-disable MD024 -->
+
 ## 1.8.0
 
 ### Minor Changes
